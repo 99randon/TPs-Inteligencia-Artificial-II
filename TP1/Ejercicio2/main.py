@@ -14,9 +14,9 @@ def main():
     Templef = Orden1.TempleSimulado()
     tamañof = Orden1.Tamaño(Templef)
 
-    #print (Templef)
-    #print (tamañof)
-    #Orden1.Graficarresultado(Templef)
+    print (Templef)
+    print (tamañof)
+    Orden1.Graficarresultado(Templef)
 
 if __name__ == "__main__":
     main()
